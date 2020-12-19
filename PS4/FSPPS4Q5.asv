@@ -1,0 +1,9 @@
+clear;
+%Q5
+% (a)
+% Multiplying both sides of the first equation by A
+% Get delta' = A*delta, G' = A*G*A^-1
+d = [0.3;0.5];
+G = [0.99,0;0.3,0.3];
+A = 
+d_tild = 
